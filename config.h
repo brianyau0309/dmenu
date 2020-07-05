@@ -6,7 +6,7 @@ static int fuzzy = 1;                       /* -F  option; if 0, dmenu doesn't u
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
   "CascadiaCode:pixelsize=15:antialias=true:autohint=true",
-  "NotoCJK:pixelsize=15:antialias=true:autohint=true",
+  "NotoSansCJKHK:pixelsize=15:antialias=true:autohint=true",
   "JoyPixels:pixelsize=15:antialias=true:autohint=true",
   "Symbola:pixelsize=15:antialias=true:autohint=true",
   "Symbols Nerd Font:pixelsize=16:antialias=true:autohint=true"
